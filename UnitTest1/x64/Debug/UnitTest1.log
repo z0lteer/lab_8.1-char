@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Oleh Sukanets\Desktop\Studying\коди АП\Lab8.1CHAR\Lab8.1CHAR\Lab8.1.cpp(15,24): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Oleh Sukanets\Desktop\Studying\коди АП\Lab8.1CHAR\Lab8.1CHAR\Lab8.1.cpp(24,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\Oleh Sukanets\Desktop\Studying\коди АП\Lab8.1CHAR\x64\Debug\UnitTest1.lib and object C:\Users\Oleh Sukanets\Desktop\Studying\коди АП\Lab8.1CHAR\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Oleh Sukanets\Desktop\Studying\коди АП\Lab8.1CHAR\x64\Debug\UnitTest1.dll
